@@ -1,5 +1,5 @@
 # trabajoPracticoBasica2
 
 
-Gabriel Halcague
+Gabriel Halcague, 
 Alexis Verba 
