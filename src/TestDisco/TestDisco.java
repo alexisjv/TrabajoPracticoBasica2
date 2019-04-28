@@ -19,9 +19,6 @@ class TestDisco {
 		assertEquals(23561.9449, disco1.getSuperficie(), 0.01);
 		assertEquals(628.3185307, disco1.getPerimetroExterior(), 0.01);
 		assertEquals(314.1592654, disco1.getPerimetroInterior(), 0.01);
-		
-		System.out.println("El radio interior es: "+disco1.getRadioInterior()+"\n"+"El radio exterior es: "+disco1.getRadioExterior()+"\n"+"El perímetro Interior es: "+disco1.getPerimetroInterior() +
-				"\n"+"El perímetro Exterior es: "+disco1.getPerimetroExterior()+"\n"+"La superficie es: "+disco1.getSuperficie());
 	}
 
 }
